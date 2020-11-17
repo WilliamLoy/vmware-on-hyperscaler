@@ -1,1 +1,1 @@
-# vmware-on-hyperscaler
+# docs-colocation-guide
